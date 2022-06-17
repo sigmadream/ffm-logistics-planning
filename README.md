@@ -4,4 +4,5 @@
 
 ## 실행환경
 
-- python >= 3.10.x
+- Python >= 3.10.x
+- Windows, macOS
