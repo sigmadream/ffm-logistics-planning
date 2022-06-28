@@ -1,7 +1,7 @@
 # 물류최적화를 위한 데이터 생성
 
 ## Description
-![project_readme](https://user-images.githubusercontent.com/106570204/175852797-8f5df514-4d14-48d4-a6ae-c90723051d5b.png)
+![KakaoTalk_20220628_173013427](https://user-images.githubusercontent.com/106570204/176133261-aa981ae1-5585-452b-9359-caa41b201728.png)
 ### summary
 1. 주문 최적화에 사용될 주문 내역 데이터를 랜덤으로 생성
 2. 주문내역을 이용하여 물류창고에 적재시킬 상품 내역 생성
@@ -38,7 +38,6 @@
  물류 창고의 가장자리에는 선반이 존재하면 안됨  
 선반끼리는 2칸의 여분 공간 필요  
 공장 위쪽 아래쪽에 일정 간격으로 workstation 존재  
-선반에 60개 이상의 물건은 적재하지 않음  
 
 ### 물류 창고 상품 적재  
 * 상품 데이터(csv)를 받아 물류 창고에 적재  
@@ -48,10 +47,10 @@
 
 ## Result
 ### 주문 내역 생성 결과 
-(사진)
+<img src="https://user-images.githubusercontent.com/106570204/176132582-b82d9be8-0b44-41ac-bdd6-fd4edb52c33f.png" width=100% height=400>
 
 ### 상품 생성 결과 
-(사진)
+<img src="https://user-images.githubusercontent.com/106570204/176132916-e91797fd-84ab-4bab-83dd-3714445495e6.png" width=500 height=400>
 
 ### 가상 물류 창고 생성 결과   
 |<img src="https://user-images.githubusercontent.com/106570204/176085575-237cddce-123b-47d4-8752-6dcf1dbe4acb.png" width=200 height=400>|R : 가로 <br> C : 세로 <br> W : Workstation <br> @ : 선반|<img src="https://user-images.githubusercontent.com/106570204/176086030-e0e12946-fb28-4e1b-a5cd-aff9a52cc937.png" width=200 height=400>|R : 가로 <br> C : 세로 <br> -1 : Workstation <br> n : 선반|
