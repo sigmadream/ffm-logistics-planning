@@ -60,7 +60,12 @@
 ### 물류 창고 상품 적재 결과  
 |물류 창고에 상품을 적재시킨 결과|1번 선반에 적재된 물건 확인|선반에 적재된 물건 추출 결과|
 |---|---|---|
-|<img src="https://user-images.githubusercontent.com/106570204/176088342-c6039c9f-5454-47c3-969a-8f7814b74a83.png" width=360 height=430>|<img src="https://user-images.githubusercontent.com/106570204/176088788-162874ea-fa13-4060-99ee-8897b747d684.png" width=360 height=450>|<img src="https://user-images.githubusercontent.com/106570204/176088848-0f3f0982-a6ac-400b-a759-224712f70a79.png" width=360 height=430>|
+|<img src="https://user-images.githubusercontent.com/106570204/176088342-c6039c9f-5454-47c3-969a-8f7814b74a83.png" width=360 height=430>|<img src="https://user-images.githubusercontent.com/106570204/176088788-162874ea-fa13-4060-99ee-8897b747d684.png" width=360 height=450>|<img src="https://user-images.githubusercontent.com/106570204/176088848-0f3f0982-a6ac-400b-a759-224712f70a79.png" width=360 height=430>|   
+
+|상품이 적재되어 있는 선반 위치 찾기 결과|
+|---|
+|<img src="https://user-images.githubusercontent.com/106570204/176137055-4e68e31e-73de-4a24-9788-b5aa621a66f4.png" width=100% height=200>|
+
 
 ## Reference
 https://www.scirp.org/journal/ajor/
