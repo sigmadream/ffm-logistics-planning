@@ -32,5 +32,6 @@ $ pip install numpy pandas openpyxl faker jupyterlab
 
 ## Reference
 
+- [종합쇼핑몰 품목 등록 내역](https://data.g2b.go.kr:1443/pt/pubdata/moveGnrlzSopmalPrdlstRegistPop.do)
 - [Yuan, Ruiping, Tingting Dong, and Juntao Li. "Research on the collision-free path planning of multi-AGVs system based on improved A* algorithm." American Journal of Operations Research 6.6 (2016): 442-449.](https://www.scirp.org/journal/paperinformation.aspx?paperid=72034)
 
